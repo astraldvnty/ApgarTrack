@@ -1,5 +1,6 @@
 # ApgarTrack
 Projeto Android para facilitar o cálculo do índice de Apgar.
+
 -# Feito por Eduardo Madeira, João Vargas e João Carapuça no âmbito da Disciplina de Interação Pessoa-Computador (ESTIG, IPBeja).
 
 Funcionalidades:
