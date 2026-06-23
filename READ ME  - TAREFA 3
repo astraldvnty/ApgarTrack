@@ -1,0 +1,39 @@
+Todos estes campos estão devidamente comentados no código da aplicação
+
+1-campo “Utente”
+Pertence a:
+ApgarScreen.kt
+função Home
+dentro do Cartao
+o Box com .border(...)
+o Text("Número de utente para avaliação")
+
+2-Lista de utentes
+Pertence a:
+ApgarScreen.kt
+função ListaUtentes
+ApgarLogic.kt
+lista utentes
+
+3 — registos do utente
+Pertence a:
+ApgarScreen.kt
+função RegistosUtente
+ApgarLogic.kt
+avaliações dentro de cada utente
+Não inclui header nem footer.
+
+4 — detalhe da avaliação/parâmetros
+Pertence a:
+ApgarScreen.kt
+função DetalheAvaliacao
+ApgarLogic.kt
+parâmetros dentro da avaliação
+função categoria no ApgarLogic.kt
+função corCategoria no ApgarScreen.kt
+
+Resumo curtíssimo:
+ 1: Home
+ 2: ListaUtentes + utentes
+ 3: RegistosUtente + avaliacoes
+ 4: DetalheAvaliacao + parametros + categoria/corCategoria
