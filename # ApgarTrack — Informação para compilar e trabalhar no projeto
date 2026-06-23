@@ -1,0 +1,26 @@
+# ApgarTrack — Informação para compilar e trabalhar no projeto
+
+## Requisitos
+
+Este projeto deve ser aberto no Android Studio.
+
+Configuração usada:
+
+- Linguagem: Kotlin
+- Interface: Jetpack Compose
+- Material: Material 3
+- Java: 11
+- minSdk: 24
+- targetSdk: 36
+- compileSdk: 36
+
+A app corre em Android 7.0 ou superior.
+
+## Como abrir o projeto
+
+1. Fazer download do ZIP.
+2. Extrair o ZIP.
+3. Abrir o Android Studio.
+4. Escolher `File > Open`.
+5. Selecionar a pasta principal do projeto, não apenas a pasta `app`.
+6. Esperar o Gradle sincronizar.
